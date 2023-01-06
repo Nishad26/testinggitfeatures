@@ -16,5 +16,7 @@ public class App
     public void add() {
     	System.out.println(78+90);
     }
-    
+    public void sub(){
+        System.out.println(78-90);
+    }
 }
