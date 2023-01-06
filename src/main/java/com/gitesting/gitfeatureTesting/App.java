@@ -10,5 +10,11 @@ public class App
     	System.out.println( "Hello World!" );
     	System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
+        new App().add();
     }
+    
+    public void add() {
+    	System.out.println(78+90);
+    }
+    
 }
